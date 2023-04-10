@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c6096&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e89f2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alexsandro+Eduardo👋;Sou+System+Devoloper💻;Seja+Bem+Vindo!😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e89f2&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alexsandro+Eduardo👋;Sou+System+Devoloper💻;Seja+Bem+Vindo!😄)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alexsandro08&show_icons=true&count_private=true&hide_border=true&title_color=a3b0c6&icon_color=a3b0c6&text_color=a3b0c6&bg_color=3c6096" alt= Alexsandro Eduardo github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro08&layout=compact&hide_border=true&title_color=3e89f2&text_color=3e89f2&bg_color=0d1117" />
