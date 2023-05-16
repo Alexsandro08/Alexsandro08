@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c6096&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e89f2&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Alexsandro+Eduardo👋;Sou+System+Devoloper💻;Seja+Bem+Vindo!😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e89f2&size=40&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Alexsandro+Eduardo👋;I'am+System+Devoloper💻;Welcome!😄)](https://git.io/typing-svg)
 
 <div align="center">  
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro08&layout=compact&hide_border=true&title_color=3e89f2&text_color=3e89f2&bg_color=0d1117"/>
@@ -8,7 +8,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alexsandro08&bg_color=2b4468&color=ffff&line=ffff&point=122744&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Conhecimentos:
+### Knowledge:
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![CSS](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -30,13 +30,13 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
   
 
-### Outros conhecimento:
+### Othes knowledge:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=0D1117)&nbsp;
   ![SQLZ](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)&nbsp;
   ![Net](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
   
-### Estudando:
+### Studying:
 
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
