@@ -6,7 +6,6 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro08&layout=compact&hide_border=true&title_color=3e89f2&text_color=3e89f2&bg_color=0d1117"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alexsandro08&bg_color=2b4468&color=ffff&line=ffff&point=122744&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Knowledge:
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
